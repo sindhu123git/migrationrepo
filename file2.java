@@ -1,7 +1,5 @@
 class
 {
-	main()
+	main(i)
 }
-println "hello"
-}
-from R2
+print from R1 
